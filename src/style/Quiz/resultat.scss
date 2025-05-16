@@ -1,0 +1,101 @@
+.resultat {
+    position: relative;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    button{
+        text-transform: uppercase;
+        position: absolute;
+        top: 0%;
+        right: 0%;
+        color: #fff;
+        background-color: #007bff;
+        border: none;
+        padding: 15px;
+        border-radius: 7px;
+        transition: opacity 0.9s;
+        .fa-solid{
+          opacity: 0;
+          position: absolute;
+        }
+        &:hover{
+          .fa-solid
+          {opacity: 1;}
+        }
+    }
+    .suivant:hover{
+      .fa-solid
+      {opacity: 1;}
+    }
+    button:disabled{
+        opacity: 0.5;
+        cursor: not-allowed;
+    }
+    .failed{
+      position: absolute;
+      left: 0%;
+      width: 180px;
+    }
+    h3{
+        color: red;
+    }
+    .vert{
+        color: green;
+    }
+    .haut{
+        width: 800px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        p{
+            padding: 10px 20px 10px 20px;
+            background-color: #fff;
+            border-top-right-radius:10px ;
+        }
+    }
+    table {
+        width: 800px;
+      border-collapse: collapse;
+      tr{
+       background-color: #fff;
+        th, td {
+            border: 1px solid #007bff;
+            padding: 8px;
+            text-align: center;
+          }
+      
+          th {
+            padding: 18px;
+           background-color: #007bff;
+           text-transform: uppercase;
+           color: #fff; /* Couleur de la barre de progression */
+          }
+      
+          td:not(:last-child) {
+            border-right: 0.7px solid #007bff;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+          }
+          p:not(:last-child){
+            width: 106%;
+            border-bottom: 1px solid #007bff;
+            margin-left: -9px;
+            overflow: hidden;
+          }
+          td p{
+            padding: 15px;
+          }
+          .correct{
+             color: green;
+          }
+          .incorrect{
+            color: red;
+          }
+      }
+      
+    }
+  }
+  

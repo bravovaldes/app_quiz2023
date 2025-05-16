@@ -1,0 +1,123 @@
+[
+{
+    "Category":"Sport",
+    "question":"Quel joueur de basketball est souvent surnommé 'King James'?",
+    "imageURL1": "../../assests/img/sport1/q1c.jpg",
+    "imageURL2": "../../assests/img/sport1/q1c.png", 
+    "answersOptions":[
+        {"answerText": "Kobe Bryant", "isCorrect": false },
+        {"answerText": "Michael Jordan", "isCorrect": false },
+        {"answerText": "LeBron James", "isCorrect": true },
+        {"answerText": "Kevin Durant", "isCorrect": false }
+    ],
+     "resultat": false
+},
+{
+    "question":"Quel est le sport principal du Tour de France?",
+    "imageURL1": "../../assests/img/sport1/q2b.jpg",
+    "imageURL2": "../../assests/img/sport1/q2b.png", 
+    "answersOptions":[
+        {"answerText": "Course à pied", "isCorrect": false },
+        {"answerText": "Cyclisme", "isCorrect": true },
+        {"answerText": "Natation", "isCorrect": false },
+        {"answerText": "Tennis", "isCorrect": false }
+    ],
+     "resultat": false
+},
+{
+    "question":"Dans quel pays est né le sport du cricket?",
+    "imageURL1": "../../assests/img/sport1/q3a.jpg",
+    "imageURL2": "../../assests/img/sport1/q3a2.jpg", 
+    "answersOptions":[
+        {"answerText": "Angleterre", "isCorrect": true },
+        {"answerText": " Australie", "isCorrect": false },
+        {"answerText": "Inde", "isCorrect": false },
+        {"answerText": "Afrique du Sud", "isCorrect": false }
+    ],
+     "resultat": false
+},
+{
+    "question":"Qui est le footballeur brésilien souvent appelé 'O Fenômeno'?", 
+    "imageURL1": "../../assests/img/sport1/q4c.jpg",
+    "imageURL2": "../../assests/img/sport1/q4c2.jpg",
+    "answersOptions":[
+        {"answerText": "Ronaldinho", "isCorrect": false },
+        {"answerText": "Pelé", "isCorrect": false },
+        {"answerText": "Ronaldo Nazário", "isCorrect": true },
+        {"answerText": " Neymar", "isCorrect": false }
+    ],
+     "resultat": false
+},
+{
+    "question":"Quel joueur de tennis suisse a remporté 20 titres du Grand Chelem en simple masculin jusqu'à présent?", 
+    "imageURL1": "../../assests/img/sport1/q5c.jpg",
+    "imageURL2": "../../assests/img/sport1/q5c2.jpg",
+    "answersOptions":[
+        {"answerText": "Rafael Nadal", "isCorrect": false },
+        {"answerText": "Novak Djokovic", "isCorrect": false },
+        {"answerText": "Roger Federer", "isCorrect": true },
+        {"answerText": "Andy Murray", "isCorrect": false }
+    ],
+     "resultat": false
+},
+{
+    "question":"Quel est le sport principal des Jeux Olympiques d'hiver?",
+    "imageURL1": "../../assests/img/sport1/q6b.jpg",
+    "imageURL2": "../../assests/img/sport1/q6b2.jpg",
+    "answersOptions":[
+        {"answerText": "Ski alpin", "isCorrect": false },
+        {"answerText": "Patinage artistique", "isCorrect": true },
+        {"answerText": "Luge", "isCorrect": false },
+        {"answerText": "Snowboard", "isCorrect": false }
+    ],
+     "resultat": false
+},
+{
+    "question":"Dans quel sport le terme 'strike' est-il utilisé?",
+    "imageURL1": "../../assests/img/sport1/q7b.jpg",
+    "imageURL2": "../../assests/img/sport1/q7b2.jpg", 
+    "answersOptions":[
+        {"answerText": "Tennis", "isCorrect": false },
+        {"answerText": "Baseball", "isCorrect": true },
+        {"answerText": "Golf", "isCorrect": false },
+        {"answerText": "Football américain", "isCorrect": false }
+    ],
+     "resultat": false
+},
+{
+    "question":"Quelle équipe a remporté le plus grand nombre de Super Bowls dans l'histoire de la NFL?",
+    "imageURL1": "../../assests/img/sport1/q8a.jpg",
+    "imageURL2": "../../assests/img/sport1/q8a2.png", 
+    "answersOptions":[
+        {"answerText": "New England Patriots", "isCorrect": true },
+        {"answerText": "Dallas Cowboys", "isCorrect": false },
+        {"answerText": "San Francisco 49ers", "isCorrect": false },
+        {"answerText": "Pittsburgh Steelers", "isCorrect": false }
+    ],
+     "resultat": false
+},
+{
+    "question":"Quel est le sport officiel du Japon?", 
+    "imageURL1": "../../assests/img/sport1/q9d.png",
+    "imageURL2": "../../assests/img/sport1/q9d2.jpg",
+    "answersOptions":[
+        {"answerText": "Sumo", "isCorrect": true },
+        {"answerText": "Judo", "isCorrect": false },
+        {"answerText": "Karaté", "isCorrect": false },
+        {"answerText": "Baseball", "isCorrect": false }
+    ],
+     "resultat": false
+},
+{
+    "question":"Quelle équipe nationale de football a remporté le plus  grand nombre de Coupes du Monde de la FIFA?",
+    "imageURL1": "../../assests/img/sport1/q10b.png",
+    "imageURL2": "../../assests/img/sport1/q10b2.jpg",
+    "answersOptions":[
+        {"answerText": "Allemagne", "isCorrect": false },
+        {"answerText": "Brésil", "isCorrect": true },
+        {"answerText": "Italie", "isCorrect": false },
+        {"answerText": "Argentine", "isCorrect": false }
+    ],
+    "resultat": false
+}
+]

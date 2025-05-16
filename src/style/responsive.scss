@@ -1,0 +1,198 @@
+@media (max-width: 1366px){
+    
+    
+    } 
+    @media (max-width: 1100px ){
+        section {
+            .allquiz{
+                max-width: 900px;
+                width: 100%;
+            }
+        }
+    }
+    
+    @media (max-width: 960px ) {
+        section {
+            .allquiz{
+              
+                margin-right: 15px;
+                width: 90%;
+                height: 200px;
+                p{
+                    max-width: 500px;
+                    width: 100%;
+                }
+                img{
+                    max-width: 250px;
+                    width: 100%;
+                }
+            }
+           
+        }
+    }
+    @media (max-width: 900px ){
+        section {
+            justify-content: center;
+            align-items: center;
+            .allquiz{
+                position: relative;
+                height: 250px;
+                margin-left: 10px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                p{ 
+                    display: flex;
+                    align-items: center;
+                    font-size: 18px;
+                    max-width: 500px;
+                    width: 100%;
+                    margin-bottom: 30px;
+                    margin-left: 5px;
+                }
+                img{
+                    margin-bottom: 30px;
+                    max-width: 200px;
+                    height: 150px;
+                    width: 100%;
+                }
+                button{
+                    position: absolute;
+                    bottom: 0%;
+                    right: 0%;
+                    min-width: 100%;
+                }
+            }
+            
+        }
+       
+    }
+    
+  
+@media (max-width: 720px ){
+body{
+
+
+    header{
+        .ok{ 
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+            right: 0%;
+            top: 100%;
+            color:#007bff;
+            li{
+                opacity: 0;
+                color:#007bff;
+            }
+            a{
+                opacity: 0;
+            }
+            .burger{
+                opacity: 1;
+                color: #fff;
+            }
+            }
+        .openprin{
+            li{
+                z-index: 2;
+                font-size: 18px;
+                color:#007bff;
+                opacity: 1;
+            }
+            .open{
+                .bar1{
+                    transform: rotate(-49deg) translate(-5px,9px);
+                }
+                .bar2{
+                    opacity: 0;
+                }
+                .bar3{
+                    transform: rotate(50deg) translate(-5px,-9px);
+                }
+            }
+            a{
+                opacity: 1;
+            }
+        }
+        }
+        section{
+           main{
+            .pagination{
+                .categorie{
+                        h1{
+                        
+                            max-width: 900px ;
+                            width: 89%;
+                            margin-right: 60px;   
+                        }
+                }
+            }
+            .cadre_principale{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+                gap: 10px;
+                .cadre{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-direction: column;
+                    gap: 10px;
+                    .cadre_secondaire{
+                        width: 350px;
+                        height: 450px;
+                    }
+                }
+            }
+           }
+            
+        }
+    }
+}
+    @media (max-width: 600px ){
+        section{
+            .allquiz{
+                p{
+                    font-size: 0.8rem;
+                }
+            }
+            .pagination{
+                .categorie{
+                        h1{
+                        
+                            max-width: 300px ;
+                            width: 80%;
+                            margin-right: 60px;   
+                        }
+                    
+                }
+            }
+        }
+    }
+    @media (max-width: 500px ){
+        header{
+            .titre{
+                margin-right: 40px;
+                h3{
+                    opacity: 0;
+                }
+            }
+            .ok{
+                 .burger{
+                    right: 100%;
+                 }
+            }
+        }
+    }
+    @media (max-width: 400px ){
+        header{
+           
+            .titre{
+                margin-right: 40px;
+            }
+        }
+    }

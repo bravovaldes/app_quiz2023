@@ -1,0 +1,122 @@
+[{
+    "Category":"Musique",
+    "question":"Quel artiste canadien est connu pour son style pop et a remporté plusieurs Grammy Awards ?",
+    "imageURL1":"../assests/img/musique2/q1a.jpg",
+    "imageURL2":"../assests/img/musique2/q1b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Justin Bieber", "isCorrect": false },
+        {"answerText": "Drake", "isCorrect": true },
+        {"answerText": "Leonard Cohen", "isCorrect": false },
+        {"answerText": "Céline Dion", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel est le nom du guitariste légendaire connu pour son jeu de guitare rapide et son morceau emblématique 'Sultans of Swing' ?",
+    "imageURL1":"../assests/img/musique2/q2a.jpg",
+    "imageURL2":"../assests/img/musique2/q2b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Eric Clapton", "isCorrect": false },
+        {"answerText": "Mark Knopfler", "isCorrect": true },
+        {"answerText": "Jimmy Page", "isCorrect": false },
+        {"answerText": "Jimi Hendrix", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel artiste a remporté le prix Nobel de littérature en 2016, principalement pour ses paroles de chansons ?",
+    "imageURL1":"../assests/img/musique2/q3a.jpg",
+    "imageURL2":"../assests/img/musique2/q3b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Bob Dylan", "isCorrect": true },
+        {"answerText": "Bruce Springsteen", "isCorrect": false },
+        {"answerText": "Joni Mitchell", "isCorrect": false },
+        {"answerText": "Leonard Cohen", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel compositeur autrichien est souvent surnommé 'Le Viennois radieux' ?",
+    "imageURL1":"../assests/img/musique2/q4a.jpg",
+    "imageURL2":"../assests/img/musique2/q4b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Joseph Haydn", "isCorrect": false },
+        {"answerText": "Wolfgang Amadeus Mozart", "isCorrect": true },
+        {"answerText": "Franz Joseph Strauss", "isCorrect": false },
+        {"answerText": "Franz Schubert", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Qui était le principal compositeur du mouvement romantique allemand, connu pour ses symphonies et son lied ?",
+    "imageURL1":"../assests/img/musique2/q5a.jpg",
+    "imageURL2":"../assests/img/musique2/q5b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Richard Wagner", "isCorrect": false },
+        {"answerText": "Johannes Brahms", "isCorrect": false },
+        {"answerText": "Robert Schumann", "isCorrect": true },
+        {"answerText": "Ludwig van Beethoven", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel genre de musique est associé aux artistes comme John Coltrane, Miles Davis et Charlie Parker ?",
+    "imageURL1":"../assests/img/musique2/q6a.jpg",
+    "imageURL2":"../assests/img/musique2/q6b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Jazz", "isCorrect": true },
+        {"answerText": "Blues", "isCorrect": false },
+        {"answerText": "Country", "isCorrect": false },
+        {"answerText": "Rock", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel groupe britannique a sorti l'album 'The Dark Side of the Moon' en 1973 ?",
+    "imageURL1":"../assests/img/musique2/q7a.jpg",
+    "imageURL2":"../assests/img/musique2/q7b.jpg" ,
+    "answersOptions":[
+        {"answerText": "The Beatles", "isCorrect": false },
+        {"answerText": "Led Zeppelin", "isCorrect": false },
+        {"answerText": "Pink Floyd", "isCorrect": true },
+        {"answerText": "The Rolling Stones", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quelle chanteuse américaine est surnommée 'Queen of Soul' et est connue pour des chansons comme 'Respect' ?",
+    "imageURL1":"../assests/img/musique2/q8a.jpg",
+    "imageURL2":"../assests/img/musique2/q8b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Whitney Houston", "isCorrect": false },
+        {"answerText": "Diana Ross", "isCorrect": false },
+        {"answerText": "Aretha Franklin", "isCorrect": true },
+        {"answerText": "Tina Turner", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel compositeur russe est célèbre pour ses ballets 'Le Lac des cygnes' et 'La Belle au bois dormant' ?",
+    "imageURL1":"../assests/img/musique2/q9a.jpg",
+    "imageURL2":"../assests/img/musique2/q9b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Igor Stravinsky", "isCorrect": false },
+        {"answerText": "Dmitri Chostakovitch", "isCorrect": false },
+        {"answerText": "Sergei Rachmaninoff", "isCorrect": false },
+        {"answerText": "Piotr Ilitch Tchaïkovski", "isCorrect": true }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel instrument n'est pas inclus dans un quatuor à cordes traditionnel ?",
+    "imageURL1":"../assests/img/musique2/q10a.jpg",
+    "imageURL2":"../assests/img/musique2/q10b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Violon", "isCorrect": false },
+        {"answerText": "Alto", "isCorrect": false },
+        {"answerText": "Violoncelle", "isCorrect": false },
+        {"answerText": "Trompettev", "isCorrect": true }
+    ],
+    "resultat":false
+}
+]

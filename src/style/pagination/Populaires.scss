@@ -1,0 +1,72 @@
+$football: url('../../assests/img/samuel.jpg');
+$Musique: url('../../assests/img/musique.jpg');
+$Geography: url('../../assests/img/paris.jpg');
+$Disney: url('../../assests/img/disney.jpg');
+.cadre_principale{
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    h1{
+      color: #007bff;
+      margin-bottom: 10px;
+    }
+    .cadre{
+        z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      .musique{
+        
+        background-image: $Musique ;
+        background-position: center;
+        background-size: cover;
+      }
+      .capital{
+        background-image: $Geography ;
+        background-position: center;
+        background-size: cover;
+      }
+      .serie{
+        background-image: $Disney ;
+        background-position: center;
+        background-size: cover;
+      }
+      .foot{
+        background-image: $football ;
+        background-position: center;
+        background-size: cover;
+        &:hover {
+            transform: translateY(20px);
+            box-shadow: 0 20px 20px rgba(0, 0, 0, 0.7);
+        } 
+      }
+      
+      
+      .cadre_secondaire{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-weight: bold;
+       cursor: pointer;
+        width: 250px;
+        height: 400px;
+        background-color: #fff;
+        padding: 20px;
+        transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+        &:hover {
+            transform: translateY(-20px);
+            box-shadow: 0 20px 20px rgba(0, 0, 0, 0.7);
+        } 
+        p{
+          font-family: 'Dancing Script';
+          font-size: 35px;
+          font-weight: bold;
+          color: #fff;
+        }
+      }
+    }
+}

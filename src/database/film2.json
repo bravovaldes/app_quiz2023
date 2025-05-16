@@ -1,0 +1,121 @@
+[{
+    "Category":"Film",
+    "question":"Qui a remporté l'Oscar du Meilleur Acteur pour son rôle dans 'Le Revenant' en 2016 ?",
+    "imageURL1":"../assests/img/film2/q1a.jpeg",
+    "imageURL2":"../assests/img/film2/q1b.jpeg" ,
+    "answersOptions":[
+        {"answerText": "Leonardo DiCaprio", "isCorrect": true },
+        {"answerText": "Brad Pitt", "isCorrect": false },
+        {"answerText": "Matthew McConaughey", "isCorrect": false },
+        {"answerText": "Joaquin Phoenix", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel réalisateur est connu pour des films tels que 'Pulp Fiction' et 'Kill Bill' ?",
+    "imageURL1":"../assests/img/film2/q2a.jpeg",
+    "imageURL2":"../assests/img/film2/q2b.jpeg" ,
+    "answersOptions":[
+        {"answerText": "Martin Scorsese", "isCorrect": false },
+        {"answerText": "Quentin Tarantino", "isCorrect": true },
+        {"answerText": "Christopher Nolan", "isCorrect": false },
+        {"answerText": "Steven Spielberg", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel film a remporté l'Oscar du Meilleur Film en 2020 ?",
+    "imageURL1":"../assests/img/film2/q3a.jpeg",
+    "imageURL2":"../assests/img/film2/q3b.jpeg" ,
+    "answersOptions":[
+        {"answerText": "1917", "isCorrect": false },
+        {"answerText": "Parasite", "isCorrect": true },
+        {"answerText": "Joker", "isCorrect": false },
+        {"answerText": "Once Upon a Time in Hollywood", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Qui a réalisé le film 'Inception' ?",
+    "imageURL1":"../assests/img/film2/q4a.jpeg",
+    "imageURL2":"../assests/img/film2/q4b.jpeg" ,
+    "answersOptions":[
+        {"answerText": "Christopher Nolan", "isCorrect": true },
+        {"answerText": "David Fincher", "isCorrect": false },
+        {"answerText": "Denis Villeneuve", "isCorrect": false },
+        {"answerText": "Ridley Scott", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel acteur a incarné le personnage de Tony Stark dans le Marvel Cinematic Universe (MCU) ?",
+    "imageURL1":"../assests/img/film2/q5a.jpeg",
+    "imageURL2":"../assests/img/film2/q5b.jpeg" ,
+    "answersOptions":[
+        {"answerText": "Chris Evans", "isCorrect": false },
+        {"answerText": "Robert Downey Jr.", "isCorrect": true },
+        {"answerText": "Chris Hemsworth", "isCorrect": false },
+        {"answerText": "Mark Ruffalo", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel film a été réalisé par le cinéaste sud-coréen Bong Joon-ho et a remporté la Palme d'Or au Festival de Cannes 2019 ?",
+    "imageURL1":"../assests/img/film2/q6a.jpeg",
+    "imageURL2":"../assests/img/film2/q6b.jpeg" ,
+    "answersOptions":[
+        {"answerText": "Memories of Murder", "isCorrect": false },
+        {"answerText": "Snowpiercer", "isCorrect": false },
+        {"answerText": "The Host", "isCorrect": false },
+        {"answerText": "Parasite", "isCorrect": true }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel acteur a joué le rôle principal dans le film 'Forrest Gump' ?",
+    "imageURL1":"../assests/img/film2/q7a.jpeg",
+    "imageURL2":"../assests/img/film2/q7b.jpeg" ,
+    "answersOptions":[
+        {"answerText": "Tom Hanks", "isCorrect": true },
+        {"answerText": "Robert De Niro", "isCorrect": false },
+        {"answerText": "Al Pacino", "isCorrect": false },
+        {"answerText": "Johnny Depp", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quelle actrice a remporté l'Oscar de la Meilleure Actrice pour son rôle dans 'La La Land' ?",
+    "imageURL1":"../assests/img/film2/q8a.jpeg",
+    "imageURL2":"../assests/img/film2/q8b.jpeg" ,
+    "answersOptions":[
+        {"answerText": "Emma Watson", "isCorrect": false },
+        {"answerText": "Emma Stone", "isCorrect": true },
+        {"answerText": "Natalie Portman", "isCorrect": false },
+        {"answerText": "Jennifer Lawrence", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel réalisateur a créé la trilogie du 'Seigneur des Anneaux' ?",
+    "imageURL1":"../assests/img/film2/q9a.jpeg",
+    "imageURL2":"../assests/img/film2/q9b.jpeg" ,
+    "answersOptions":[
+        {"answerText": "Peter Jackson", "isCorrect": true },
+        {"answerText": "George Lucas", "isCorrect": false },
+        {"answerText": "James Cameron", "isCorrect": false },
+        {"answerText": "Ridley Scott", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel film a été la première réalisation du réalisateur Christopher Nolan ?",
+    "imageURL1":"../assests/img/film2/q10a.jpeg",
+    "imageURL2":"../assests/img/film2/q10b.jpeg" ,
+    "answersOptions":[
+        {"answerText": "Inception", "isCorrect": false },
+        {"answerText": "Memento", "isCorrect": false },
+        {"answerText": "Following", "isCorrect": true },
+        {"answerText": "Interstellar", "isCorrect": false }
+    ],
+    "resultat":false
+}]

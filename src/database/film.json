@@ -1,0 +1,121 @@
+[{
+    "Category":"Film",
+    "question":"Qui a remporté l'Oscar du meilleur acteur pour son rôle dans 'Le Joker' en 2020?", 
+    "imageURL1":"../assests/img/film1/Q1a.jpeg",
+    "imageURL2":"../assests/img/film1/q1b.jpg",
+    "answersOptions":[
+        {"answerText": "Joaquin Phoenix", "isCorrect": true },
+        {"answerText": "Leonardo DiCaprio", "isCorrect": false },
+        {"answerText": "Brad Pitt", "isCorrect": false },
+        {"answerText": "Robert De Niro", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel film a remporté l'Oscar du meilleur film en 2019?", 
+    "imageURL1":"../assests/img/film1/q2a.jpg",
+    "imageURL2":"../assests/img/film1/q2b.jpeg",
+    "answersOptions":[
+        {"answerText": "Parasite", "isCorrect": true },
+        {"answerText": "1917", "isCorrect": false },
+        {"answerText": "Joker", "isCorrect": false },
+        {"answerText": "Once Upon a Time in Hollywood", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel réalisateur est connu pour des films tels que 'Pulp Fiction' et 'Kill Bill'?", 
+    "imageURL1":"../assests/img/film1/q3a.jpg",
+    "imageURL2":"../assests/img/film1/q3b.jpg",
+    "answersOptions":[
+        {"answerText": "Steven Spielberg", "isCorrect": false },
+        {"answerText": "Quentin Tarantino", "isCorrect": true },
+        {"answerText": "Christopher Nolan", "isCorrect": false },
+        {"answerText": " Martin Scorsese", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Qui a remporté l'Oscar de la meilleure actrice pour son rôle dans 'La La Land' en 2017?", 
+    "imageURL1":"../assests/img/film1/q4a.jpg",
+    "imageURL2":"../assests/img/film1/q4b.jpg",
+    "answersOptions":[
+        {"answerText": "Meryl Streep", "isCorrect": false },
+        {"answerText": "Emma Stone", "isCorrect": true },
+        {"answerText": "Natalie Portman", "isCorrect": false },
+        {"answerText": "Cate Blanchett", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel film a remporté le premier Oscar du meilleur film d'animation en 2002?", 
+    "imageURL1":"../assests/img/film1/q5a.jpg",
+    "imageURL2":"../assests/img/film1/q5b.jpg",
+    "answersOptions":[
+        {"answerText": "Shrek", "isCorrect": false },
+        {"answerText": "Toy Story", "isCorrect": false },
+        {"answerText": "Le Voyage de Chihiro", "isCorrect": true },
+        {"answerText": " Le Roi Lion", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel acteur a interprété le rôle d'Iron Man dans le Marvel Cinematic Universe?", 
+    "imageURL1":"../assests/img/film1/q6a.jpg",
+    "imageURL2":"../assests/img/film1/q6b.jpeg",
+    "answersOptions":[
+        {"answerText": "Chris Evans", "isCorrect": false },
+        {"answerText": "Chris Hemsworth", "isCorrect": false },
+        {"answerText": "Robert Downey Jr.", "isCorrect": true },
+        {"answerText": "Mark Ruffalo", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel film a remporté le prix du meilleur réalisateur pour Damien Chazelle en 2017?", 
+    "imageURL1":"../assests/img/film1/q7a.jpg",
+    "imageURL2":"../assests/img/film1/q7b.jpg",
+    "answersOptions":[
+        {"answerText": "La La Land", "isCorrect": true },
+        {"answerText": "Moonlight", "isCorrect": false },
+        {"answerText": "Whiplash", "isCorrect": false },
+        {"answerText": "First Man", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel est le film le plus rentable de tous les temps (en termes de recettes brutes)?", 
+    "imageURL1":"../assests/img/film1/q8a.jpeg",
+    "imageURL2":"../assests/img/film1/q8b.png",
+    "answersOptions":[
+        {"answerText": "Avatar", "isCorrect": false },
+        {"answerText": " Avengers: Endgame", "isCorrect": true },
+        {"answerText": "Titanic", "isCorrect": false },
+        {"answerText": "Star Wars: Le Réveil de la Force", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"ui a réalisé le film 'Inception' en 2010?", 
+    "imageURL1":"../assests/img/film1/q9a.jpg",
+    "imageURL2":"../assests/img/film1/q9b.jpeg",
+    "answersOptions":[
+        {"answerText": "Christopher Nolan", "isCorrect": true },
+        {"answerText": "Quentin Tarantino", "isCorrect": false },
+        {"answerText": "David Fincher", "isCorrect": false },
+        {"answerText": "James Cameron", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel film a remporté le premier Oscar du meilleur film en 1929?", 
+    "imageURL1":"../assests/img/film1/q10a.jpg",
+    "imageURL2":"../assests/img/film1/q10b.jpeg",
+    "answersOptions":[
+        {"answerText": "Casablanca", "isCorrect": false },
+        {"answerText": "Gone with the Wind (Autant en emporte le vent)", "isCorrect": false },
+        {"answerText": "The Godfather (Le Parrain)", "isCorrect": false },
+        {"answerText": "Wings", "isCorrect": true }
+    ],
+    "resultat":false
+}]

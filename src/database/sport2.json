@@ -1,0 +1,121 @@
+[{
+    "Category":"Sport",
+    "question":"Qui est le détenteur du record du monde du saut en hauteur masculin ?",
+    "imageURL1":"../assests/img/sport2/q1a.jpg",
+    "imageURL2":"../assests/img/sport2/q2b.jpg",
+    "answersOptions":[
+        {"answerText": "Usain Bolt", "isCorrect": false },
+        {"answerText": "Michael Phelps", "isCorrect": false },
+        {"answerText": "Sergei Bubka", "isCorrect": false },
+        {"answerText": "Javier Sotomayor", "isCorrect": true }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel joueur de tennis suisse a remporté 20 titres du Grand Chelem en simple masculin jusqu'à présent ?",
+    "imageURL1":"../assests/img/sport2/q2a.jpg",
+    "imageURL2":"../assests/img/sport2/q2b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Novak Djokovic", "isCorrect": false },
+        {"answerText": "Rafael Nadal", "isCorrect": false },
+        {"answerText": "Andy Murray", "isCorrect": false },
+        {"answerText": "Roger Federer", "isCorrect": true }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quelle équipe a remporté le dernier Super Bowl de la NFL (National Football League) ?",
+    "imageURL1":"../assests/img/sport2/q3a.jpg",
+    "imageURL2":"../assests/img/sport2/q3b.jpg" ,
+    "answersOptions":[
+        {"answerText": "New England Patriots", "isCorrect": false },
+        {"answerText": "Kansas City Chiefs", "isCorrect": true },
+        {"answerText": "San Francisco 49ers", "isCorrect": false },
+        {"answerText": "Green Bay Packers", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
+    "imageURL1":"../assests/img/sport2/q4a.jpg",
+    "imageURL2":"../assests/img/sport2/q4b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Brésil", "isCorrect": false },
+        {"answerText": "Allemagne", "isCorrect": false },
+        {"answerText": "France", "isCorrect": true },
+        {"answerText": "Espagne", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Qui détient le record du monde du marathon masculin ?",
+    "imageURL1":"../assests/img/sport2/q5a.jpg",
+    "imageURL2":"../assests/img/sport2/q5b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Eliud Kipchoge", "isCorrect": true },
+        {"answerText": "Kenenisa Bekele", "isCorrect": false },
+        {"answerText": "Haile Gebrselassie", "isCorrect": false },
+        {"answerText": "Wilson Kipsang", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Dans quel sport la 'Balle Jaune est-elle utilisée ?",
+    "imageURL1":"../assests/img/sport2/q6a.jpg",
+    "imageURL2":"../assests/img/sport2/q6b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Tennis", "isCorrect": true },
+        {"answerText": "Cricket", "isCorrect": false },
+        {"answerText": "Golf", "isCorrect": false },
+        {"answerText": "Badminton", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quelle équipe de basketball de la NBA a remporté le plus de championnats au total ?",
+    "imageURL1":"../assests/img/sport2/q7a.jpg",
+    "imageURL2":"../assests/img/sport2/q7b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Los Angeles Lakers", "isCorrect": false },
+        {"answerText": "Chicago Bulls", "isCorrect": false },
+        {"answerText": "Boston Celtics", "isCorrect": true },
+        {"answerText": "Golden State Warriors", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel golfeur a été surnommé 'The Golden Bear' et détient le record du plus grand nombre de victoires en tournois majeurs ?",
+    "imageURL1":"../assests/img/sport2/q8a.jpg",
+    "imageURL2":"../assests/img/sport2/q8b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Tiger Woods", "isCorrect": false },
+        {"answerText": "Phil Mickelson", "isCorrect": false },
+        {"answerText": "Jack Nicklaus", "isCorrect": true },
+        {"answerText": "Arnold Palmer", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Qui a été le meilleur buteur de la Coupe du Monde de la FIFA 2014 ?",
+    "imageURL1":"../assests/img/sport2/q9a.jpg",
+    "imageURL2":"../assests/img/sport2/q9b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Lionel Messi", "isCorrect": false },
+        {"answerText": "Thomas Müller", "isCorrect": true },
+        {"answerText": "James Rodriguez", "isCorrect": false },
+        {"answerText": "Neymar", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Dans quel sport les termes 'strike', 'spare' et 'split' sont-ils couramment utilisés ?",
+    "imageURL1":"../assests/img/sport2/q10a.jpg",
+    "imageURL2":"../assests/img/sport2/q10b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Bowling", "isCorrect": true },
+        {"answerText": "Baseball", "isCorrect": false },
+        {"answerText": "Volleyball", "isCorrect": false },
+        {"answerText": "Cricket", "isCorrect": false }
+    ],
+    "resultat":false
+}]

@@ -1,0 +1,122 @@
+[{
+    "Category":"Musique",
+    "question":"Quel instrument est connu comme le 'Roi des instrument' ?", 
+    "imageURL1":"../assests/img/musique1/q1a.jpg",
+    "imageURL2":"../assests/img/musique1/q1b.jpg",
+    "answersOptions":[
+        {"answerText": "Guitare", "isCorrect": false },
+        {"answerText": "Piano", "isCorrect": true },
+        {"answerText": "Violon", "isCorrect": false },
+        {"answerText": "Trompette", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Qui est souvent appelé 'le Roi du Rock 'n' Roll'?", 
+    "imageURL1":"../assests/img/musique1/q2a.jpg",
+    "imageURL2":"../assests/img/musique1/q2b.jpg",
+    "answersOptions":[
+        {"answerText": "Elvis Presley", "isCorrect": true },
+        {"answerText": "Michael Jackson", "isCorrect": false },
+        {"answerText": "Bob Dylan", "isCorrect": false },
+        {"answerText": "Freddie Mercury", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel genre musical a émergé à La Nouvelle-Orléans au début du 20e siècle et est souvent associé à des funérailles joyeuses?", 
+    "imageURL1":"../assests/img/musique1/q3a.jpg",
+    "imageURL2":"../assests/img/musique1/q3b.jpg",
+    "answersOptions":[
+        {"answerText": "Jazz", "isCorrect": true },
+        {"answerText": "Blues", "isCorrect": false },
+        {"answerText": "Reggae", "isCorrect": false },
+        {"answerText": "Salsa", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel groupe a enregistré l'album emblématique 'The Dark Side of the Moon'?", 
+    "imageURL1":"../assests/img/musique1/q4a.jpg",
+    "imageURL2":"../assests/img/musique1/q4b.jpg",
+     "answersOptions":[
+        {"answerText": "The Rolling Stones", "isCorrect": false },
+        {"answerText": "The Beatles", "isCorrect": false },
+        {"answerText": "Led Zeppelin", "isCorrect": false },
+        {"answerText": "Pink Floyd", "isCorrect": true }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel artiste a remporté le plus grand nombre de Grammy Awards de l'histoire?", 
+    "imageURL1":"../assests/img/musique1/q5a.jpg",
+    "imageURL2":"../assests/img/musique1/q5b.jpg",
+    "answersOptions":[
+        {"answerText": "Michael Jackson", "isCorrect": false },
+        {"answerText": " Beyoncé", "isCorrect": false },
+        {"answerText": "Quincy Jones", "isCorrect": true },
+        {"answerText": "Stevie Wonder", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel pays est le berceau du tango?", 
+    "imageURL1":"../assests/img/musique1/q6a.jpg",
+    "imageURL2":"../assests/img/musique1/q6b.jpg",
+    "answersOptions":[
+        {"answerText": "Brésil", "isCorrect": false },
+        {"answerText": "Argentine", "isCorrect": true },
+        {"answerText": "Espagne", "isCorrect": false },
+        {"answerText": "Cuba", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Qui est l'auteur-compositeur de la chanson 'Imagine'?", 
+    "imageURL1":"../assests/img/musique1/q7a.jpg",
+    "imageURL2":"../assests/img/musique1/q7b.jpg",
+    "answersOptions":[
+        {"answerText": "John Lennon", "isCorrect": true },
+        {"answerText": "Bob Dylan", "isCorrect": false },
+        {"answerText": "Paul McCartney", "isCorrect": false },
+        {"answerText": "George Harrison", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel est le nom du groupe de rock légendaire formé par Jimmy Page en 1968?", 
+    "imageURL1":"../assests/img/musique1/q8a.jpg",
+    "imageURL2":"../assests/img/musique1/q8b.jpg",
+    "answersOptions":[
+        {"answerText": "The Who", "isCorrect": false },
+        {"answerText": "Led Zeppelin", "isCorrect": true },
+        {"answerText": "The Rolling Stones", "isCorrect": false },
+        {"answerText": "The Doors", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel genre musical a ses racines dans le gospel, le blues et le jazz, et est souvent associé à la ville de Detroit? ?", 
+     "imageURL1":"../assests/img/musique1/q9a.jpg",
+     "imageURL2":"../assests/img/musique1/q9b.jpg",
+     "answersOptions":[
+        {"answerText": "Hip-hop", "isCorrect": false },
+        {"answerText": "Country", "isCorrect": false },
+        {"answerText": "Motown", "isCorrect": true },
+        {"answerText": "R&B", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel compositeur autrichien est célèbre pour ses symphonies, dont la 9e avec son 'Hymne à la joie'?", 
+    "imageURL1":"../assests/img/musique1/q10a.jpg",
+    "imageURL2":"../assests/img/musique1/q10b.jpg",
+    "answersOptions":[
+        {"answerText": "Wolfgang Amadeus Mozart", "isCorrect": false },
+        {"answerText": "Ludwig van Beethoven", "isCorrect": true },
+        {"answerText": "Franz Schubert", "isCorrect": false },
+        {"answerText": "Johann Sebastian Bach", "isCorrect": false }
+    ],
+    "resultat":false
+}
+]

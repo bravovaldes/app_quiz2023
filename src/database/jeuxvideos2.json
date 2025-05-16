@@ -1,0 +1,121 @@
+[{
+    "Category":"Jeuxvideos",
+    "question":"Qui est le créateur de la série de jeux 'Metal Gear Solid' ?",
+    "imageURL1":"../assests/img/jeuxvideos2/q1a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos2/q1b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Hideo Kojima", "isCorrect": true },
+        {"answerText": "Shigeru Miyamoto", "isCorrect": false },
+        {"answerText": "Tim Schafer", "isCorrect": false },
+        {"answerText": "Todd Howard", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel jeu a remporté le prix du Jeu de l'Année aux Game Awards 2017 ?",
+    "imageURL1":"../assests/img/jeuxvideos2/q2a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos2/q2b.jpg" ,
+    "answersOptions":[
+        {"answerText": "The Legend of Zelda: Breath of the Wild", "isCorrect": false },
+        {"answerText": "Overwatch", "isCorrect": false },
+        {"answerText": "Red Dead Redemption 2", "isCorrect": false },
+        {"answerText": "God of War", "isCorrect": true }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quelle franchise de jeux vidéo a été développée par la société Bethesda Game Studios ?",
+    "imageURL1":"../assests/img/jeuxvideos2/q3a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos2/q3b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Assassin's Creed", "isCorrect": false },
+        {"answerText": "The Elder Scrolls", "isCorrect": true },
+        {"answerText": "Grand Theft Auto", "isCorrect": false },
+        {"answerText": "Halo", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel jeu a popularisé le genre 'Battle Royale' en 2017 ?",
+    "imageURL1":"../assests/img/jeuxvideos2/q4a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos2/q4b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Fortnite", "isCorrect": true },
+        {"answerText": "PlayerUnknown's Battlegrounds (PUBG)", "isCorrect": false },
+        {"answerText": "Apex Legends", "isCorrect": false },
+        {"answerText": "Call of Duty: Warzone", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Qui est le protagoniste principal de la série de jeux 'Final Fantasy VII' ?",
+    "imageURL1":"../assests/img/jeuxvideos2/q5a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos2/q5b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Cloud Strife", "isCorrect": true },
+        {"answerText": "Squall Leonhart", "isCorrect": false },
+        {"answerText": "Zidane Tribal", "isCorrect": false },
+        {"answerText": "Tidus", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel jeu a introduit le personnage emblématique 'Master Chief' ?",
+    "imageURL1":"../assests/img/jeuxvideos2/q6a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos2/q6b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Halo: Combat Evolved", "isCorrect": true },
+        {"answerText": "Gears of War", "isCorrect": false },
+        {"answerText": "Destiny", "isCorrect": false },
+        {"answerText": "Mass Effect", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel studio de développement a créé la série de jeux 'The Witcher' ?",
+    "imageURL1":"../assests/img/jeuxvideos2/q7a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos2/q7b.jpg" ,
+    "answersOptions":[
+        {"answerText": "CD Projekt", "isCorrect": true },
+        {"answerText": "Bioware", "isCorrect": false },
+        {"answerText": "Rockstar Games", "isCorrect": false },
+        {"answerText": "Naughty Dog", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quelle série de jeux est souvent associée au développeur japonais Hidetaka Miyazaki et est connue pour sa difficulté élevée ?",
+    "imageURL1":"../assests/img/jeuxvideos2/q8a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos2/q8b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Dark Souls", "isCorrect": true },
+        {"answerText": "Bloodborne", "isCorrect": false },
+        {"answerText": "Nioh", "isCorrect": false },
+        {"answerText": "Demon's Souls", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel jeu a été le premier à utiliser le moteur graphique Unreal Engine ?",
+    "imageURL1":"../assests/img/jeuxvideos2/q9a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos2/q9b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Doom", "isCorrect": false },
+        {"answerText": "Quake", "isCorrect": false },
+        {"answerText": "Half-Life", "isCorrect": false },
+        {"answerText": "Unreal", "isCorrect": true }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel jeu de stratégie en temps réel (RTS) a été développé par Blizzard Entertainment et est devenu une référence du genre ?",
+    "imageURL1":"../assests/img/jeuxvideos2/q10a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos2/q10b.jpg" ,
+    "answersOptions":[
+        {"answerText": "Age of Empires", "isCorrect": false },
+        {"answerText": "Command & Conquer", "isCorrect": false },
+        {"answerText": "StarCraft", "isCorrect": true },
+        {"answerText": "Warcraft", "isCorrect": false }
+    ],
+    "resultat":false
+}]

@@ -1,0 +1,124 @@
+[
+    {
+      "Category": "Capital",
+      "question": "Quelle est la Capitale de la Thaïlande? ",
+      "imageURL1": "../assests/img/thailande1.jpg",
+      "imageURL2": "../assests/img/thailande2.jpg",
+      "answersOptions": [
+        {"answerText": "Bangkok", "isCorrect": true},
+        {"answerText": "Phuket", "isCorrect": false},
+        {"answerText": "Pattaya", "isCorrect": false},
+        {"answerText": "Chiang Mai", "isCorrect": false}
+      ],
+      "resultat": false
+    },
+    {
+      "question": "Quelle est la Capitale de l'Afrique du Sud?",
+      "imageURL1": "../assests/img/afriquedusud1.jpg",
+      "imageURL2": "../assests/img/afriquedusud2.jpg",
+      "answersOptions": [
+        {"answerText": "Johannesburg", "isCorrect": false},
+        {"answerText": "Le Cap", "isCorrect": false},
+        {"answerText": "Pretoria", "isCorrect": true},
+        {"answerText": "Durban", "isCorrect": false}
+      ],
+      "resultat": false
+    },
+    {
+      "question": "Quelle est la Capitale de l'Australie?",
+      "imageURL1": "../assests/img/australie1.jpg",
+      "imageURL2": "../assests/img/australie2.jpg",
+      "answersOptions": [
+        {"answerText": "Sydney", "isCorrect": false},
+        {"answerText": "Melbourne", "isCorrect": false},
+        {"answerText": "Canberra", "isCorrect": true},
+        {"answerText": "Brisbane", "isCorrect": false}
+      ],
+      "resultat": false
+    },
+    {
+      "question": "Quelle est la Capitale du Luxembourg?",
+      "imageURL1": "../assests/img/luxembourg1.jpg",
+      "imageURL2": "../assests/img/luxembourg2.jpg",
+      "answersOptions": [
+        {"answerText": "Bruxelles", "isCorrect": false},
+        {"answerText": "Luxembourg", "isCorrect": true},
+        {"answerText": "La Haye", "isCorrect": false},
+        {"answerText": "Oslo", "isCorrect": false}
+      ],
+      "resultat": false
+    },
+    {
+      "question": "Quelle est la Capitale de la Mongolie?",
+      "imageURL1": "../assests/img/mongolie1.jpg",
+      "imageURL2": "../assests/img/mongolie2.jpg",
+      "answersOptions": [
+        {"answerText": "Astana", "isCorrect": false},
+        {"answerText": "Ulaanbaatar", "isCorrect": true},
+        {"answerText": "Douchanbé", "isCorrect": false},
+        {"answerText": "Oulan-Bator", "isCorrect": false}
+      ],
+      "resultat": false
+    },
+    {
+      "question": "Quelle est la Capitale du Mozambique?",
+      "imageURL1": "../assests/img/mozambique1.jpg",
+      "imageURL2": "../assests/img/mozambique2.jpg",
+      "answersOptions": [
+        {"answerText": "Luanda", "isCorrect": false},
+        {"answerText": "Harare", "isCorrect": false},
+        {"answerText": "Lusaka", "isCorrect": false},
+        {"answerText": "Maputo", "isCorrect": true}
+      ],
+      "resultat": false
+    },
+    {
+      "question": "Quelle est la Capitale de l'Ouzbékistan?",
+      "imageURL1": "../assests/img/ouzbekistan1.jpg",
+      "imageURL2": "../assests/img/ouzbekistan2.jpg",
+      "answersOptions": [
+        {"answerText": "Nur-Sultan", "isCorrect": false},
+        {"answerText": "Douchanbé", "isCorrect": false},
+        {"answerText": "Tachkent", "isCorrect": true},
+        {"answerText": "Bichkek", "isCorrect": false}
+      ],
+      "resultat": false
+    },
+    {
+      "question": "Quelle est la Capitale du Bangladesh?",
+      "imageURL1": "../assests/img/bangladesh1.jpg",
+      "imageURL2": "../assests/img/bangladesh2.jpg",
+      "answersOptions": [
+        {"answerText": "Kolkata", "isCorrect": false},
+        {"answerText": "Chittagong", "isCorrect": false},
+        {"answerText": "Dhaka", "isCorrect": true},
+        {"answerText": "Islamabad", "isCorrect": false}
+      ],
+      "resultat": false
+    },
+    {
+      "question": "Quelle est la Capitale de la Jordanie?",
+      "imageURL1": "../assests/img/jordanie1.jpg",
+      "imageURL2": "../assests/img/jordanie2.jpg",
+      "answersOptions": [
+        {"answerText": "Amman", "isCorrect": true},
+        {"answerText": "Beyrouth", "isCorrect": false},
+        {"answerText": "Le Caire", "isCorrect": false},
+        {"answerText": "Damas", "isCorrect": false}
+      ],
+      "resultat": false
+    },
+    {
+      "question": "Quelle est la Capitale de la Lettonie?",
+      "imageURL1": "../assests/img/lettonie1.jpg",
+      "imageURL2": "../assests/img/lettonie2.jpg",
+      "answersOptions": [
+        {"answerText": "Riga", "isCorrect": true},
+        {"answerText": "Vilnius", "isCorrect": false},
+        {"answerText": "Tallinn", "isCorrect": false},
+        {"answerText": "Helsinki", "isCorrect": false}
+      ],
+      "resultat": false
+    }
+  ]
+  

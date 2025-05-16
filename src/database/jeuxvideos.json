@@ -1,0 +1,122 @@
+[{
+    "Category":"Jeuxvideos",
+    "question":"Qui est le personnage emblématique de la franchise de jeux vidéo 'Super Mario Bros.'?", 
+    "imageURL1":"../assests/img/jeuxvideos1/q1d.jpg",
+    "imageURL2":"../assests/img/jeuxvideos1/q1d2.png",
+    "answersOptions":[
+        {"answerText": "Sonic", "isCorrect": false },
+        {"answerText": "Donkey Kong", "isCorrect": false },
+        {"answerText": "Luigi", "isCorrect": false },
+        {"answerText": "Mario", "isCorrect": true }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quelle franchise de jeux vidéo est souvent associée au personnage Master Chief?", 
+    "imageURL1":"../assests/img/jeuxvideos1/q2b.jpg",
+    "imageURL2":"../assests/img/jeuxvideos1/q2b2.jpg",
+    "answersOptions":[
+        {"answerText": "Call of Duty", "isCorrect": false },
+        {"answerText": "Halo", "isCorrect": true },
+        {"answerText": "Destiny", "isCorrect": false },
+        {"answerText": "Gears of War", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel jeu a popularisé le genre Battle Royale?", 
+    "imageURL1":"../assests/img/jeuxvideos1/q3a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos1/q3a1.jpg",
+    "answersOptions":[
+        {"answerText": "Fortnite", "isCorrect": true },
+        {"answerText": " PlayerUnknown's Battlegrounds (PUBG)", "isCorrect": false },
+        {"answerText": "Apex Legends", "isCorrect": false },
+        {"answerText": "Call of Duty: Warzone", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quelle série de jeux vidéo met en scène Geralt de Riv, un chasseur de monstres professionnel?", 
+    "imageURL1":"../assests/img/jeuxvideos1/q4c.jpg",
+    "imageURL2":"../assests/img/jeuxvideos1/q4c2.jpg",
+    "answersOptions":[
+        {"answerText": "Final Fantasy", "isCorrect": false },
+        {"answerText": "The Elder Scrolls", "isCorrect": false },
+        {"answerText": "Witcher", "isCorrect": true },
+        {"answerText": "Dragon Age", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel est le nom du personnage principal dans la série de jeux 'The Legend of Zelda'?", 
+    "imageURL1":"../assests/img/jeuxvideos1/q5c.jpg",
+    "imageURL2":"../assests/img/jeuxvideos1/q5c2.jpg",
+    "answersOptions":[
+        {"answerText": "Link", "isCorrect": true },
+        {"answerText": "Zelda", "isCorrect": false },
+        {"answerText": "Ganondorf", "isCorrect": false },
+        {"answerText": "Epona", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quelle franchise de jeux vidéo est centrée sur des courses de voitures et inclut des titres comme 'Mario Kart'?", 
+    "imageURL1":"../assests/img/jeuxvideos1/q6d.jpg",
+    "imageURL2":"../assests/img/jeuxvideos1/q6d2.png",
+    "answersOptions":[
+        {"answerText": "Need for Speed", "isCorrect": false },
+        {"answerText": "Forza Motorsport", "isCorrect": false },
+        {"answerText": "Gran Turismo", "isCorrect": false },
+        {"answerText": "Mario Kart", "isCorrect": true }
+    ],
+    "resultat":false
+},
+{
+    "question":"Qui est le créateur de la série de jeux 'Metal Gear'?", 
+    "imageURL1":"../assests/img/jeuxvideos1/q7a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos1/q7a2.jpg",
+    "answersOptions":[
+        {"answerText": "Hideo Kojima", "isCorrect": true },
+        {"answerText": "Shigeru Miyamoto", "isCorrect": false },
+        {"answerText": "Gabe Newell", "isCorrect": false },
+        {"answerText": "Tim Schafer", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel jeu vidéo a introduit le personnage de Lara Croft?", 
+    "imageURL1":"../assests/img/jeuxvideos1/q8b.jpg",
+    "imageURL2":"../assests/img/jeuxvideos1/q8b2.jpg",
+    "answersOptions":[
+        {"answerText": "Uncharted", "isCorrect": false },
+        {"answerText": "Tomb Raider", "isCorrect": true },
+        {"answerText": "Prince of Persia", "isCorrect": false },
+        {"answerText": "Assassin's Creed", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Dans quel jeu vidéo peut-on rencontrer le personnage GLaDOS?", 
+    "imageURL1":"../assests/img/jeuxvideos1/q9a.jpeg",
+    "imageURL2":"../assests/img/jeuxvideos1/q9a2.jpg",
+    "answersOptions":[
+        {"answerText": "Portal", "isCorrect": true },
+        {"answerText": "Half-Life", "isCorrect": false },
+        {"answerText": "Bioshock", "isCorrect": false },
+        {"answerText": "Overwatch", "isCorrect": false }
+    ],
+    "resultat":false
+},
+{
+    "question":"Quel jeu vidéo a popularisé le genre 'MMORPG' (jeu de rôle en ligne massivement multijoueur)?", 
+    "imageURL1":"../assests/img/jeuxvideos1/q10a.jpg",
+    "imageURL2":"../assests/img/jeuxvideos1/q10a2.jpg",
+    "answersOptions":[
+        {"answerText": "World of Warcraft", "isCorrect": true },
+        {"answerText": "Final Fantasy XIV", "isCorrect": false },
+        {"answerText": "The Elder Scrolls Online", "isCorrect": false },
+        {"answerText": "Guild Wars 2", "isCorrect": false }
+    ],
+    "resultat":false
+}
+]

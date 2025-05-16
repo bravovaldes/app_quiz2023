@@ -1,0 +1,136 @@
+[
+
+    {
+        "Category":"Capital",
+        "id":1,
+        "question":"Quelle est la capitale du Canada?", 
+        "imageURL1": "../assests/img/canada1.jpg",
+        "imageURL2": "../../assests/img/canada2.jpg",
+        "answersOptions":[
+            {"answerText": "Toronto", "isCorrect": false },
+            {"answerText": "Vancouver", "isCorrect": false },
+            {"answerText": "Ottawa", "isCorrect": true },
+            {"answerText": "Montréal", "isCorrect": false }
+        ],
+        "resultat": false
+    },
+    {
+        "id":2,
+        "question":"Quelle est la capitale du Cameroun?", 
+        "imageURL1": "../assests/img/yaounde2.jpg",
+        "imageURL2":  "../assests/img/yaounde3.jpg",
+        "answersOptions":[
+            {"answerText": "Douala", "isCorrect": false },
+            {"answerText": "Yaounde", "isCorrect": true },
+            {"answerText": "Limbe", "isCorrect": false },
+            {"answerText": "Kribi", "isCorrect": false }
+        ],
+        "resultat": false
+    },
+    {
+        "id":3,
+        "question":"Quelle est la capitale de la France?", 
+        "imageURL1": "../assests/img/paris.jpg",
+        "imageURL2": "../assests/img/paris2.jpg",
+        "answersOptions":[
+            {"answerText": "Berlin", "isCorrect": false },
+            {"answerText": "Rome", "isCorrect": false },
+            {"answerText": "Madrid", "isCorrect": false },
+            {"answerText": "Paris", "isCorrect": true }
+        ],
+        "resultat": false
+    },
+    {
+        "id":4,
+        "question":"Quelle est la capitale de l'Allemagne?", 
+        "imageURL1": "../../assests/img/berlin1.jpg",
+        "imageURL2": "../../assests/img/berlin2.jpg",
+        "answersOptions":[
+            {"answerText": "Berlin", "isCorrect": true },
+            {"answerText": "Vienne", "isCorrect": false },
+            {"answerText": "Munich", "isCorrect": false },
+            {"answerText": "Francfort", "isCorrect": false }
+        ],
+        "resultat": false
+    },
+    {
+        "id":5,
+        "question":"Quelle est la capitale de l'Inde?", 
+        "imageURL1": "../../assests/img/delhi1.jpg",
+        "imageURL2": "../../assests/img/delhi2.jpg",
+        "answersOptions":[
+            {"answerText": "Delhi", "isCorrect": true },
+            {"answerText": "Mumbai", "isCorrect": false },
+            {"answerText": "Kolkata", "isCorrect": false },
+            {"answerText": "Bangalore", "isCorrect": false }
+        ],
+        "resultat": false
+    },
+   
+    {
+        "id":6,
+        "question":"Quelle est la capitale de l'Argentine?",
+        "imageURL1": "../../assests/img/buenos1.jpg",
+        "imageURL2": "../../assests/img/buenos2.jpg",
+        "answersOptions":[
+            {"answerText": "Buenos Aires", "isCorrect": true },
+            {"answerText": "Santiago", "isCorrect": false },
+            {"answerText": "Montevideo", "isCorrect": false },
+            {"answerText": "Bogotá", "isCorrect": false }
+        ],
+        "resultat": false
+    },
+    {
+        "id":7,
+        "question":"Quelle est la capitale du Sénégal?", 
+        "imageURL1": "../../assests/img/dakar1.jpg",
+        "imageURL2": "../../assests/img/dakar2.jpg",
+        "answersOptions":[
+            {"answerText": "Touba", "isCorrect": false },
+            {"answerText": "Dakar", "isCorrect": true },
+            {"answerText": "Touba", "isCorrect": false },
+            {"answerText": "Kolda", "isCorrect": false }
+        ],
+        "resultat": false
+    },
+    {
+        "id":8,
+        "question":"Quelle est la capitale de l'Égypte?",
+        "imageURL1": "../../assests/img/caire1.jpg",
+        "imageURL2": "../../assests/img/caire2.jpg",
+        "answersOptions":[
+            {"answerText": "Le Caire", "isCorrect": true },
+            {"answerText": "Alexandrie", "isCorrect": false },
+            {"answerText": "Gizeh", "isCorrect": false },
+            {"answerText": "Louxor", "isCorrect": false }
+        ],
+        "resultat": false
+    },
+    {
+        "id":9,
+        "question":"Quelle est la capitale de la Russie?",
+        "imageURL1": "../../assests/img/moscou1.jpg",
+        "imageURL2": "../../assests/img/moscou2.jpg", 
+        "answersOptions":[
+            {"answerText": "Saint-Pétersbourg", "isCorrect": false },
+            {"answerText": "Moscou", "isCorrect": true },
+            {"answerText": "Novossibirsk", "isCorrect": false },
+            {"answerText": "Vladivostok", "isCorrect": false }
+        ],
+        "resultat": false
+    },
+    {
+        "id":10,
+        "question":"Quelle est la capitale du Brésil?",
+        "imageURL1": "../../assests/img/rio1.jpg",
+        "imageURL2": "../../assests/img/rio2.jpg",
+        "answersOptions":[
+            {"answerText": "Rio de Janeiro", "isCorrect": false },
+            {"answerText": "São Paulo", "isCorrect": false },
+            {"answerText": "Brasília", "isCorrect": true },
+            {"answerText": "Salvador", "isCorrect": false }
+        ],
+        "resultat": false
+    }
+    
+]
